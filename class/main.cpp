@@ -1,0 +1,8 @@
+#include "class_fun.cpp"
+int main(){
+    Array_max array1;  
+    array1.set_value();//初始化操作  
+    array1.max_value();//求最大数的操作  
+    array1.show_value();//输出最大的数   
+    return 0;  
+}
